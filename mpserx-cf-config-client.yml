@@ -4,3 +4,6 @@ features:
 
 database:
   connectionString: abc
+
+api:
+  uri: https://abc.com

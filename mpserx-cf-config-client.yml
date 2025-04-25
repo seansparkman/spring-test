@@ -1,3 +1,7 @@
 features:
   newDashboard: true
   enableBetaMode: false
+
+secret:
+  database:
+    connectionString: abc

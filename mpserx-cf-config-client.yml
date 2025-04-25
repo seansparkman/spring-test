@@ -2,8 +2,5 @@ features:
   newDashboard: true
   enableBetaMode: false
 
-database:
-  connectionString: abc
-
 api:
   uri: https://abc.com
